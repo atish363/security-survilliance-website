@@ -1,1 +1,1 @@
-# security-survilliance-website
+# security-survilliance-website This project has been created using expressjs,reactjs,and for backend postgresql,also using ai work of this project is like now a days when traffic occures then many of the problem pepole face due to any accident any construction so while thinking this i have created this project any normal pepole can report the problem that some where any anncident happend so other people can be alert and on map it will show in a red dot also it will provide a best fresh and short route
